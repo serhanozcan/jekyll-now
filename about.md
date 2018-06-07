@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm playing PHP, Jquery and some Angular. Working for better than myself!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Sharing some functional repos, codes and more...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[serhanozcan@yandex.com](mailto:serhanozcan@yandex.com)
